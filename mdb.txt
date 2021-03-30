@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Hef llo
-=======
 Hello
->>>>>>> first
